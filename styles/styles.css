@@ -357,6 +357,8 @@ body {
     .menu-btn {
         display: block;
         z-index: 100;
+        border: none;
+        background-color: transparent;
     }
 
 
